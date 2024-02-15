@@ -8,7 +8,7 @@ Actuellement :
 
 🌱 J'approfondis mes connaissances en dernières technologies web pour rester à la pointe.
 
-👯 J'accompagne ceux qui aspirent à devenir développeurs web et freelancers, partageant mes connaissances et mon expérience.
+🌴 je suis prêt à relever tous les défis pour contribuer au succès d'une entreprise et apporter une vision unique au monde du web.
 
 ⚡ Anecdote amusante : Je suis un passionné de voyages et de sports extrêmes.
 
