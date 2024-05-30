@@ -1,3 +1,4 @@
+![pexels-pixabay-270348](https://github.com/Chris79240/Chris79240/assets/145125213/c102f4d7-89e1-40be-895d-d7b75532e185)
 
 Je suis un développeur web passionné, spécialisé dans WordPress, HTML, CSS, JavaScript, PHP, et un expert en SEO. En constante quête d'innovation et de défis, je poursuis ma passion dans le domaine du développement web.
 
