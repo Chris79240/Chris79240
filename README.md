@@ -5,7 +5,7 @@ Je suis un développeur web passionné, spécialisé dans WordPress, HTML, CSS, 
 
 Actuellement :
 
-🔭 Je suis une formation diplomante et je travaille sur des projets web personnalisés, visant à optimiser l'expérience utilisateur et la performance.
+🔭 Je suis une formation diplomante Fullstack Web & Mobile et je travaille sur des projets web personnalisés, visant à optimiser l'expérience utilisateur et la performance.
 
 🌱 J'approfondis mes connaissances en dernières technologies web pour rester à la pointe.
 
